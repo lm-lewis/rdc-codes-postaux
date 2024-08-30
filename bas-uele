@@ -1,0 +1,83 @@
+{
+	"status": "Ok",
+	"source": "https://www.codepostal.cd/",
+	"items": [{
+		"id": 1,
+		"province": "Bas-Uéle",
+		"commune_territoire": [{
+			"designation": "Buta",
+			"quartier_secteur_chefferie": [{
+					"nom": "BUTA",
+					"code_postal": "5205011"
+				},
+				{
+					"nom": "BARISI-MONGINGITI",
+					"code_postal": "5205020"
+				},
+				{
+					"nom": "BAYEU-BOGBAMA",
+					"code_postal": "5205030"
+				},
+				{
+					"nom": "BAYEU-BOGONGEA",
+					"code_postal": "5205040"
+				},
+				{
+					"nom": "MOBATI",
+					"code_postal": "5205050"
+				},
+				{
+					"nom": "MONGANZULU",
+					"code_postal": "5205060"
+				},
+				{
+					"nom": "NGURU",
+					"code_postal": "5205070"
+				}
+			]
+		}],
+		"designation": "Aketi",
+		"quartier_secteur_chefferie": [{
+				"nom": "D’AKETI /C",
+				"code_postal": "5201011"
+			},
+			{
+				"nom": "LIKATI /C",
+				"code_postal": "5201020"
+			},
+			{
+				"nom": "AVURU-DUMA",
+				"code_postal": "5201030"
+			},
+			{
+				"nom": "AVURI-GATANGA",
+				"code_postal": "5201040"
+			},
+			{
+				"nom": "BONGONGOLA",
+				"code_postal": "5201050"
+			},
+			{
+				"nom": "KILONGWANDI",
+				"code_postal": "5201060"
+			},
+			{
+				"nom": "MABINZA",
+				"code_postal": "5201070"
+			},
+			{
+				"nom": "BOYELE",
+				"code_postal": "5201080"
+			},
+			{
+				"nom": "NGBONGI",
+				"code_postal": "5201090"
+			},
+			{
+				"nom": "YOKO",
+				"code_postal": "5201100"
+			}
+		],
+      "":""
+	}]
+}
